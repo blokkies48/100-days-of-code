@@ -14,5 +14,7 @@ def pascals_triangle(num_rows):
         
     return return_list # Returning list
 
-print(pascals_triangle(7))
+print(pascals_triangle(9))
+
+
 
