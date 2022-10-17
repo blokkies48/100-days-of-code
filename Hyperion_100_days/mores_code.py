@@ -18,7 +18,7 @@ def read_morse(words):
     return len(return_list) # Returning the length of the list
     
 
-words = ["gin","zen","gig","msg"] # Creating words list
+words = ["gin","zen","gig","msg","for","saf"] # Creating words list
 
     
 print(read_morse(words))
